@@ -1,7 +1,7 @@
 <template>
   <div>
     8888
-    <img src="../../assets/logo.png">
+    <img src="../../assets/images/logo.png">
     <h1>{{ msg }}</h1>
     <div v-html="msg"></div>
   </div>
